@@ -1,5 +1,5 @@
 # IPomat
-A simple Python IP-to-Hex/Dec/Bin translator
+A simple Python IP-to-Hex/Dec/Bin translator For RCE etc tests
 # Usage
 ```
      __     ______   ______     __    __     ______     ______  
